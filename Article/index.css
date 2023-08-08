@@ -1,0 +1,9 @@
+#user-form {
+  text-align: center;
+}
+#fullName,
+#email,
+#about,
+#picture {
+  margin: auto;
+}
